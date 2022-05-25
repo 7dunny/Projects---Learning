@@ -20,3 +20,4 @@ Points of Note...
 This site is not responsive - pretty disastrous when trying with different screen sizes.
 I did use rem most of the time but I don't have any media queries etc. yet (still a lot to learn)
 
+Also, still trying to work out how to get the styles.css stylesheet to come across to the GitHub repository.  Sadly, I also think this means that it hasn't tracked my changes to styles.css either - oh well (as I said, still a lot to learn)
